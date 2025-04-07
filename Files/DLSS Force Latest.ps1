@@ -67,8 +67,8 @@ Clear-Host
 	Write-Host "5. Read Only"
 	Write-Host "6. Inspector"
 	Write-Host ""
-    Write-Host "DLSSv3 v3.10.X or above = DLSS 4" -ForegroundColor Red
-	Write-Host "DLSSv3 v3.1.X  or below = DLSS 3" -ForegroundColor Red
+    Write-Host "DLSSv3 v310.X.X or above = DLSS 4" -ForegroundColor Red
+	Write-Host "DLSSv3 v3.X.X  or below = DLSS 3" -ForegroundColor Red
 	Write-Host ""
 	              }
 	show-menu
