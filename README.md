@@ -25,6 +25,7 @@ An easy way to force the latest DLSS version on a driver level
 1, 2 & 6 - will remove read only
 
 ## Video
-[Video](<https://youtu.be/o7O-DODzD5g>)
 
-[![Video](https://img.youtube.com/vi/o7O-DODzD5g/maxresdefault.jpg)]([https://www.youtube.com/watch?v=o7O-DODzD5g](https://youtu.be/o7O-DODzD5g))
+[Video](<https://youtu.be/rQujY5oWTbU>)
+
+[![Video](https://img.youtube.com/vi/rQujY5oWTbU/maxresdefault.jpg)]([https://www.youtube.com/watch?v=rQujY5oWTbU](https://youtu.be/rQujY5oWTbU))
