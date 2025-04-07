@@ -13,7 +13,7 @@ An easy way to force the latest DLSS version on a driver level
 - Less FPS gain with DLSS 4<br>
 
 ## How To
-<img width="301" alt="{B3B82320-33A3-4A29-9925-E1D0BABCDE87}" src="https://github.com/user-attachments/assets/9eb030a4-2af9-49c2-b7b4-e4ac44f65031" /><br>
+<img width="301" alt="{B3B82320-33A3-4A29-9925-E1D0BABCDE87}" src="https://github.com/user-attachments/assets/9eb030a4-2af9-49c2-b7b4-e4ac44f65031" /><br><br>
 1 - Force driver to use the latest DLSS version<br>
 2 - Revert<br>
 3 - Show in game overlay (to confirm DLSS version)<br>
